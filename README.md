@@ -39,7 +39,7 @@ Desenvolvendo soluções voltadas à segurança defensiva, automação e aplica�
 
 <img
   height="165"
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tue3306&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117"
+  src="[https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tue3306&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tue3306&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117)"
 />
 
 </div>
