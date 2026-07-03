@@ -1,29 +1,29 @@
-<div align="center">
+<div align="center">       
 
-```console
-    arthur@$$
-    -----------------
-    OS......: Kali / Arch (btw)
-    Focus...: Blue Team · SecOps
-    Lang....: Python · JavaScript
-    Motto...: expandindo conhecimentos
-```
 
-</div>
 
-<h3 align="center">Olá 👋 </h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+
+<p>
+  Desenvolvendo soluções voltadas à segurança defensiva, automação e aplicações de IA.
 </p>
 
-<div align="center">
+<p>
+  <a href="https://github.com/tue3306/Eigan">Eigan</a> •
+  <a href="https://github.com/tue3306/Extrator-Credenciais">Extrator-Credenciais</a> •
+  <a href="https://github.com/tue3306/defesabr-intelligence">defesabr-intelligence</a>
+</p>
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=tue3306&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&icon_color=00FF41&title_color=00FF41" />
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud-0EA5E9?style=flat-square"/>
+</p>
+
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api?username=tue3306&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117"/>
 
 </div>
-
-**Projetos:** [Eigan](https://github.com/tue3306/Eigan) · [Extrator-Credenciais](https://github.com/tue3306/Extrator-Credenciais) · [defesabr-intelligence](https://github.com/tue3306/defesabr-intelligence)
