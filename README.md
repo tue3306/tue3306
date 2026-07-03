@@ -1,17 +1,17 @@
 <div align="center">
 
 ```console
-        .-------.        arthur@blueteam
-       / .===.  \        -----------------
-       \/ 6 6 \/         OS......: Kali / Arch (btw)
-       ( \___/ )         Focus...: Blue Team · SecOps
-   _ooo__\___/__ooo_     Lang....: Python · JavaScript
-  /                  \   Motto...: expandindo conhecimentos
+    arthur@$$
+    -----------------
+    OS......: Kali / Arch (btw)
+    Focus...: Blue Team · SecOps
+    Lang....: Python · JavaScript
+    Motto...: expandindo conhecimentos
 ```
 
 </div>
 
-<h3 align="center">Olá, eu sou o Arthur 👋 — Segurança da Informação · Blue Team</h3>
+<h3 align="center">Olá 👋 </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white" />
