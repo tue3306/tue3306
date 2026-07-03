@@ -1,4 +1,4 @@
-Olá! Seja bem-vindo ao meu GitHub.
+👋Olá! Seja bem-vindo ao meu GitHub.
 
 🎓 Sou formado em Segurança da Informação pelo Senac-DF e atualmente sou graduando em Ciência da Computação no Centro Universitário de Brasília (UniCEUB). Também curso uma pós-graduação em Cloud Computing, buscando aprofundar meus conhecimentos em infraestrutura, computação em nuvem e tecnologias voltadas à transformação digital.
 
