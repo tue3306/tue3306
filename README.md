@@ -1,20 +1,14 @@
-<div align="center">       
+<div align="center">
 
-
-
-
+# Segurança da Informação • IA • Automação
 
 <p>
-  Desenvolvendo soluções voltadas à segurança defensiva, automação e aplicações de IA.
+  Desenvolvendo soluções voltadas à <b>segurança defensiva</b>, <b>automação</b> e aplicações de inteligência artificial.
 </p>
 
-<p>
-Desenvolvendo soluções voltadas à segurança defensiva, automação e aplicações de inteligência artificial.
-</p>
+---
 
-
-
-### Projetos em destaque
+### 🚀 Projetos em destaque
 
 <p>
   <a href="https://github.com/tue3306/Eigan">🛡️ Eigan</a> •
@@ -22,13 +16,12 @@ Desenvolvendo soluções voltadas à segurança defensiva, automação e aplica�
   <a href="https://github.com/tue3306/defesabr-intelligence">📊 defesabr-intelligence</a>
 </p>
 
+---
 
-### Tecnologias
+### 🧠 Tecnologias
 
-
-
-<img src="https://skillicons.dev/icons?i=python,js,linux,docker,git" />
-
-
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,linux,docker,git" />
+</p>
 
 </div>
