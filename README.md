@@ -1,5 +1,50 @@
-👋Olá! Seja bem-vindo ao meu GitHub.
+# Arthur Hoffmann
 
-🎓 Sou formado em Segurança da Informação pelo Senac-DF e atualmente sou graduando em Ciência da Computação no Centro Universitário de Brasília (UniCEUB). Também curso uma pós-graduação em Cloud Computing, buscando aprofundar meus conhecimentos em infraestrutura, computação em nuvem e tecnologias voltadas à transformação digital.
+> Segurança da Informação • Inteligência Artificial • Blue Team • Desenvolvimento • Cloud Computing
 
-💻 Tenho interesse nas áreas de Segurança da Informação, Inteligência Artificial, desenvolvimento de software, computação em nuvem e automação. Desenvolvo projetos voltados à pesquisa, inovação e aplicações práticas, com foco na criação de soluções que integrem IA, cibersegurança e tecnologias modernas para apoiar processos de defesa, análise e gestão da segurança da informação.
+---
+
+## 👋 Olá!
+
+Seja bem-vindo ao meu GitHub.
+
+Este perfil reúne projetos desenvolvidos para estudos, pesquisa e experimentação nas áreas de Segurança da Informação, Inteligência Artificial e desenvolvimento de software.
+
+Tenho interesse principalmente em soluções voltadas para defesa cibernética, automação, análise de riscos, inteligência de ameaças e aplicações de IA em segurança.
+
+---
+
+## 📂 Projetos em destaque
+
+### 🛡️ Eigan
+Agente de auditoria de segurança desenvolvido com foco em operações de Blue Team e automação de análises.
+
+### 🔐 Extrator-Credenciais
+Ferramenta para extração e análise de credenciais em ambientes autorizados, destinada a estudos e avaliações de segurança.
+
+### 📊 defesabr-intelligence
+Plataforma demonstrativa voltada à inteligência estratégica, análise de riscos e apoio à tomada de decisão em Segurança e Defesa.
+
+---
+
+## 💻 Tecnologias
+
+```text
+Python
+JavaScript
+Linux
+Docker
+Cloud Computing
+Inteligência Artificial
+Segurança da Informação
+```
+
+---
+
+## 🎯 Objetivo
+
+Desenvolver soluções que integrem Inteligência Artificial, automação e Segurança da Informação para apoiar processos de defesa, análise e tomada de decisão.
+
+---
+
+> "A tecnologia é mais útil quando transforma conhecimento em soluções práticas."
