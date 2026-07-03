@@ -35,11 +35,8 @@ Desenvolvendo soluções voltadas à segurança defensiva, automação e aplica�
 
 
 
-### GitHub Stats
+<img src="https://skillicons.dev/icons?i=python,js,linux,docker,git" />
 
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api?username=tue3306&show_icons=true""
-/>
+
 
 </div>
