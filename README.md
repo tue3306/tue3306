@@ -12,7 +12,7 @@
 Desenvolvendo soluções voltadas à segurança defensiva, automação e aplicações de inteligência artificial.
 </p>
 
----
+
 
 ### Projetos em destaque
 
@@ -22,7 +22,6 @@ Desenvolvendo soluções voltadas à segurança defensiva, automação e aplica�
   <a href="https://github.com/tue3306/defesabr-intelligence">📊 defesabr-intelligence</a>
 </p>
 
----
 
 ### Tecnologias
 
@@ -34,13 +33,13 @@ Desenvolvendo soluções voltadas à segurança defensiva, automação e aplica�
   <img src="https://img.shields.io/badge/Cloud-0EA5E9?style=flat-square"/>
 </p>
 
----
+
 
 ### GitHub Stats
 
 <img
   height="165"
-  src="https://github-readme-stats.vercel.app/api?username=tue3306&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117"
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tue3306&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117"
 />
 
 </div>
