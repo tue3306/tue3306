@@ -6,7 +6,7 @@
   Desenvolvendo soluções voltadas à <b>segurança defensiva</b>, <b>automação</b> e aplicações de inteligência artificial.
 </p>
 
----
+
 
 ### 🚀 Projetos em destaque
 
@@ -16,7 +16,7 @@
   <a href="https://github.com/tue3306/defesabr-intelligence">📊 defesabr-intelligence</a>
 </p>
 
----
+
 
 ### 🧠 Tecnologias
 
