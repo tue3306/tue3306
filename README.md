@@ -9,10 +9,22 @@
 </p>
 
 <p>
-  <a href="https://github.com/tue3306/Eigan">Eigan</a> •
-  <a href="https://github.com/tue3306/Extrator-Credenciais">Extrator-Credenciais</a> •
-  <a href="https://github.com/tue3306/defesabr-intelligence">defesabr-intelligence</a>
+Desenvolvendo soluções voltadas à segurança defensiva, automação e aplicações de inteligência artificial.
 </p>
+
+---
+
+### Projetos em destaque
+
+<p>
+  <a href="https://github.com/tue3306/Eigan">🛡️ Eigan</a> •
+  <a href="https://github.com/tue3306/Extrator-Credenciais">🔐 Extrator-Credenciais</a> •
+  <a href="https://github.com/tue3306/defesabr-intelligence">📊 defesabr-intelligence</a>
+</p>
+
+---
+
+### Tecnologias
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -22,8 +34,13 @@
   <img src="https://img.shields.io/badge/Cloud-0EA5E9?style=flat-square"/>
 </p>
 
+---
+
+### GitHub Stats
+
 <img
   height="165"
-  src="https://github-readme-stats.vercel.app/api?username=tue3306&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117"/>
+  src="https://github-readme-stats.vercel.app/api?username=tue3306&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117"
+/>
 
 </div>
