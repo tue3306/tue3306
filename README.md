@@ -25,14 +25,6 @@ Desenvolvendo soluções voltadas à segurança defensiva, automação e aplica�
 
 ### Tecnologias
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloud-0EA5E9?style=flat-square"/>
-</p>
-
 
 
 <img src="https://skillicons.dev/icons?i=python,js,linux,docker,git" />
