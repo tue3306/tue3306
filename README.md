@@ -17,7 +17,6 @@
 ### 🚀 Projetos em destaque
 
 <p>
-  <a href="https://github.com/tue3306/Eigan">🛡️ Eigan</a> •
   <a href="https://github.com/tue3306/Extrator-Credenciais">🔐 Extrator-Credenciais</a> •
   <a href="https://github.com/tue3306/defesabr-intelligence">📊 defesabr-intelligence</a>
 </p>
