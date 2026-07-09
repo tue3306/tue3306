@@ -17,8 +17,9 @@
 ### 🚀 Projetos em destaque
 
 <p>
-  <a href="https://github.com/tue3306/Extrator-Credenciais">🔐 Extrator-Credenciais</a> •
-  <a href="https://github.com/tue3306/defesabr-intelligence">📊 defesabr-intelligence</a>
+  <a href="https://github.com/tue3306/Extrator-Credenciais"> Extrator-Credenciais</a> •
+  <a href="https://github.com/tue3306/defesabr-intelligence"> defesabr-intelligence</a> •
+  <a href="https://github.com/tue3306/vulnerability-scanner"> vulnerability-scanner </a>
 </p>
 
 
