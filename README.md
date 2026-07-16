@@ -2,10 +2,6 @@
 
 # Olá, eu sou o Arthur 👋
 
-<a href="https://github.com/tue3306">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=22C55E&center=true&vCenter=true&width=560&lines=Seguranca+da+Informacao;Seguranca+Defensiva;Automacao+e+Inteligencia+Artificial;Sempre+em+busca+de+conhecimento" alt="Typing SVG" />
-</a>
-
 <p>
   Desenvolvendo soluções voltadas à <b>segurança defensiva</b>, <b>automação</b>
   e <b>aplicações de inteligência artificial</b>.
