@@ -17,8 +17,6 @@
 
 ### 🚀 Projetos em destaque
 
-### 🚀 Projetos em destaque
-
 | Projeto | Descrição | Stack |
 |---------|-----------|:-----:|
 | **[🛡️ DefesaBR Intelligence](https://github.com/tue3306/defesabr-intelligence)** | Plataforma demonstrativa de inteligência estratégica, análise de riscos e apoio à decisão (dados ilustrativos, 100% front-end). [Demo ao vivo »](https://tue3306.github.io/defesabr-intelligence/) | React · Vite · Tailwind |
