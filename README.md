@@ -20,7 +20,7 @@
 | Projeto | Descrição | Stack |
 |---------|-----------|:-----:|
 | **[🛡️ DefesaBR Intelligence](https://github.com/tue3306/defesabr-intelligence)** | Plataforma demonstrativa de inteligência estratégica, análise de riscos e apoio à decisão (dados ilustrativos, 100% front-end). [Demo ao vivo »](https://tue3306.github.io/defesabr-intelligence/) | React · Vite · Tailwind |
-| **[🔎 Vulnerability Scanner](https://github.com/tue3306/vulnerability-scanner)** | Scanner de vulnerabilidades assistido por IA para testes de segurança **autorizados** (abordagem Red/Blue/Purple), com dashboard e relatórios técnico/executivo. | Python · IA |
+| **[🔎 EIGAN](https://github.com/tue3306/EIGAN)** | Scanner de vulnerabilidades assistido por IA para testes de segurança **autorizados** (abordagem Red/Blue/Purple), com dashboard e relatórios técnico/executivo. | Python · IA |
 | **[🔐 Credential Extractor](https://github.com/tue3306/extrator-credenciais)** | Projeto educacional para pesquisa em segurança e resposta a incidentes, demonstrando técnicas de coleta e análise de credenciais em ambientes **autorizados**, com foco em conscientização e desenvolvimento de defesas. | Python |
 
 ---
