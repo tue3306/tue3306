@@ -2,11 +2,13 @@
 
 # Olá, eu sou o Arthur 👋
 
-### 🛡️ Segurança da Informação · 🤖 IA · ⚙️ Automação
+<a href="https://github.com/tue3306">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=22C55E&center=true&vCenter=true&width=560&lines=Seguranca+da+Informacao;Seguranca+Defensiva;Automacao+e+Inteligencia+Artificial;Sempre+em+busca+de+conhecimento" alt="Typing SVG" />
+</a>
 
 <p>
   Desenvolvendo soluções voltadas à <b>segurança defensiva</b>, <b>automação</b>
-  e <b>aplicações de inteligência artificial</b>. Sempre em busca de expandir meus conhecimentos.
+  e <b>aplicações de inteligência artificial</b>.
 </p>
 
 <p>
@@ -38,20 +40,4 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ed?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-f05032?logo=git&logoColor=white)
 
-</div>
-
----
-
-### 📊 GitHub
-
-<div align="center">
-
-![Estatísticas de GitHub do Arthur](https://github-readme-stats.vercel.app/api?username=tue3306&show_icons=true&hide_border=true&theme=default)
-
-</div>
-
----
-
-<div align="center">
-<sub>💡 Foco em segurança <b>defensiva</b>, aprendizado contínuo e código bem documentado.</sub>
 </div>
