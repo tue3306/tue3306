@@ -14,7 +14,6 @@
   e <b>aplicações de inteligência artificial</b>.
 </p>
 
-<p><i>Construindo ferramentas que funcionam no escuro — onde ninguém está olhando.</i></p>
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,linux,docker,git" alt="stack" />
