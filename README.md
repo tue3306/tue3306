@@ -49,7 +49,6 @@
 
 <p>
   <a href="https://github.com/tue3306/TrellixEDR/releases/latest"><img src="https://img.shields.io/github/v/release/tue3306/TrellixEDR?display_name=tag&sort=semver&label=vers%C3%A3o&color=2f81f7" alt="versão"></a>
-  <a href="https://github.com/tue3306/TrellixEDR/releases"><img src="https://img.shields.io/github/downloads/tue3306/TrellixEDR/total?label=downloads&color=238636" alt="downloads"></a>
   <a href="https://github.com/tue3306/TrellixEDR/actions/workflows/ci.yml"><img src="https://github.com/tue3306/TrellixEDR/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
   <a href="https://github.com/tue3306/TrellixEDR/blob/main/LICENSE"><img src="https://img.shields.io/github/license/tue3306/TrellixEDR?color=yellow" alt="licença"></a>
   <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4?logo=windows&logoColor=white" alt="Windows">
