@@ -103,6 +103,5 @@ apresenta em painéis e relatórios.
     ✧                      ·                        ·
 ```
 
-<sub>🌍 → 🚀 → 🌌</sub>
 
 </div>
