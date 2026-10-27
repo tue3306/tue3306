@@ -4,47 +4,47 @@
 
 | Projeto | Descrição | Stack |
 |---------|-----------|:-----:|
+| **[📡 DefesaBR Intelligence](https://github.com/tue3306/defesabr-intelligence)** | Plataforma de inteligência sobre segurança e defesa do Brasil, com dados reais coletados a cada 15 minutos: notícias classificadas, ataques cibernéticos, projetos de lei, economia, indústria de defesa e conflitos no mundo. [Ver ao vivo »](https://defesabr-intelligence.vercel.app/) | React · Node.js · Postgres |
 | **[🛡️ TrellixEDR Console](https://github.com/tue3306/TrellixEDR)** | Console gráfico completo para o Trellix Command Line Scanner: sete perfis de varredura, painel com dez gráficos, Central de Ameaças com quarentena e hashes, relatórios em PDF/HTML/CSV/JSON e limpeza de disco. Executável para Windows que dispensa Python. [Baixar »](https://github.com/tue3306/TrellixEDR/releases/latest) | Python · PySide6 · SQLite |
 | **[🔎 EIGAN](https://github.com/tue3306/EIGAN)** | Scanner de vulnerabilidades assistido por IA para testes de segurança **autorizados** (abordagem Red/Blue/Purple), com dashboard e relatórios técnico/executivo. | Python · IA |
-| **[📡 DefesaBR Intelligence](https://github.com/tue3306/defesabr-intelligence)** | Plataforma demonstrativa de inteligência estratégica, análise de riscos e apoio à decisão (dados ilustrativos, 100% front-end). [Demo ao vivo »](https://tue3306.github.io/defesabr-intelligence/) | React · Vite · Tailwind |
 
 ---
 
-### 🌌 Missão em destaque — TrellixEDR Console
+### 🌌 Missão em destaque — DefesaBR Intelligence
 
 <div align="center">
 
-<a href="https://github.com/tue3306/TrellixEDR">
-  <img src="https://raw.githubusercontent.com/tue3306/TrellixEDR/main/assets/screenshots/01-painel.png" alt="Painel do TrellixEDR Console" width="720">
+<a href="https://defesabr-intelligence.vercel.app/">
+  <img src="https://raw.githubusercontent.com/tue3306/defesabr-intelligence/main/docs/screenshots/painel.jpg" alt="Painel do DefesaBR Intelligence" width="720">
 </a>
 
 <p>
-  <a href="https://github.com/tue3306/TrellixEDR/releases/latest"><img src="https://img.shields.io/github/v/release/tue3306/TrellixEDR?display_name=tag&sort=semver&label=vers%C3%A3o&color=2f81f7" alt="versão"></a>
-  <a href="https://github.com/tue3306/TrellixEDR/actions/workflows/ci.yml"><img src="https://github.com/tue3306/TrellixEDR/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
-  <a href="https://github.com/tue3306/TrellixEDR/blob/main/LICENSE"><img src="https://img.shields.io/github/license/tue3306/TrellixEDR?color=yellow" alt="licença"></a>
-  <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4?logo=windows&logoColor=white" alt="Windows">
+  <a href="https://defesabr-intelligence.vercel.app/"><img src="https://img.shields.io/badge/ver%20ao%20vivo-defesabr--intelligence-caa733" alt="ver ao vivo"></a>
+  <a href="https://github.com/tue3306/defesabr-intelligence/actions/workflows/ci.yml"><img src="https://github.com/tue3306/defesabr-intelligence/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
+  <a href="https://github.com/tue3306/defesabr-intelligence/blob/main/LICENSE"><img src="https://img.shields.io/github/license/tue3306/defesabr-intelligence?color=yellow" alt="licença"></a>
 </p>
 
 </div>
 
-Uma interface gráfica para o mecanismo antimalware da Trellix, que só existia em
-linha de comando. O console monta o comando certo para cada situação, acompanha
-o progresso em tempo real, interpreta o relatório, guarda tudo em banco local e
-apresenta em painéis e relatórios.
+Um observatório de segurança e defesa do Brasil numa tela só. Um servidor lê
+órgãos oficiais, a imprensa e bases públicas de tempos em tempos, filtra o que
+é de defesa e mostra tudo com a fonte de cada dado. Sem inteligência
+artificial: as regras de classificação estão no código e explicadas na própria
+plataforma, junto com o que já foi medido sobre os erros delas.
 
 **O que tem dentro:**
 
-- 🔬 **Sete perfis de varredura** — rápida, completa, personalizada, downloads, área de trabalho, documentos e memória
-- 📊 **Dez gráficos** e painel consolidado, atualizados sozinhos
-- 🦠 **Central de Ameaças** com quarentena, MD5/SHA1/SHA256 e consulta ao VirusTotal
-- 📄 **Relatórios** em PDF, HTML, CSV e JSON
-- 🧹 **Limpeza de disco** com lista de proteção conferida duas vezes
-- 📦 **Executável e instalador** para Windows — sem exigir Python
-- ✅ **18 testes** verificados contra o binário real, não contra simulações
+- 📰 **Notícias do dia** de dezenas de fontes, com urgência e o motivo de cada notícia estar ali
+- 🛡️ **Ataques cibernéticos** a organizações brasileiras e falhas de software já usadas em ataques (catálogo da CISA)
+- 🏛️ **Projetos de lei** de defesa na Câmara, com a etapa de cada um
+- 🌍 **Mundo e conflitos**, com mapa e teatros de guerra acompanhados
+- 💵 **Brasil em dados**: dólar, Selic, inflação (Banco Central), exportações de defesa e gasto militar
+- 📁 **Pasta pessoal**, alertas, exportação em PDF e CSV, tema escuro e modo para daltonismo
 
-> A detecção é feita pelo **Trellix Command Line Scanner** (Musarubra US LLC),
-> que é gratuito e não é redistribuído no projeto. O crédito pela capacidade de
-> detectar ameaças é inteiramente deles — este console é a camada em volta.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tue3306/defesabr-intelligence/main/docs/screenshots/ataques-ciberneticos.jpg" alt="Ataques cibernéticos" width="360">
+  <img src="https://raw.githubusercontent.com/tue3306/defesabr-intelligence/main/docs/screenshots/mundo.jpg" alt="Mundo e conflitos" width="360">
+</div>
 
 ---
 
