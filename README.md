@@ -1,34 +1,6 @@
-<div align="center">
-
-```
-                 ✦                    ·                  ✧
-        ·                 ✦                                        ·
-                                            ·          ✦
-    ✧              ·                 ✦                        ·
-```
-
-# 🧑‍🚀 Olá, eu sou o Arthur
-
-<p>
-  Desenvolvendo soluções voltadas à <b>segurança defensiva</b>, <b>automação</b>
-  e <b>aplicações de inteligência artificial</b>.
-</p>
 
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,linux,docker,git" alt="stack" />
-</p>
-
-```
-   ·        ✧                 ·              ✦                    ·
-                    ✦                              ·         ✧
-```
-
-</div>
-
----
-
-### 🛰️ Projetos em órbita
+### 🛰️ Projetos 
 
 | Projeto | Descrição | Stack |
 |---------|-----------|:-----:|
@@ -94,13 +66,4 @@ apresenta em painéis e relatórios.
 
 ---
 
-<div align="center">
 
-```
-        ✦              ·                    ✧              ·
-                ·               ✦                                 ✦
-    ✧                      ·                        ·
-```
-
-
-</div>
