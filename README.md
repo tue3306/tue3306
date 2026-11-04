@@ -1,13 +1,5 @@
-
-
-### 🛰️ Projetos 
-
-| Projeto | Descrição | Stack |
-|---------|-----------|:-----:|
-| **[📡 DefesaBR Intelligence](https://github.com/tue3306/defesabr-intelligence)** | Plataforma de inteligência sobre segurança e defesa do Brasil, com dados reais coletados a cada 15 minutos: notícias classificadas, ataques cibernéticos, projetos de lei, economia, indústria de defesa e conflitos no mundo. [Ver ao vivo »](https://defesabr-intelligence.vercel.app/) | React · Node.js · Postgres |
-| **[🛡️ TrellixEDR Console](https://github.com/tue3306/TrellixEDR)** | Console gráfico completo para o Trellix Command Line Scanner: sete perfis de varredura, painel com dez gráficos, Central de Ameaças com quarentena e hashes, relatórios em PDF/HTML/CSV/JSON e limpeza de disco. Executável para Windows que dispensa Python. [Baixar »](https://github.com/tue3306/TrellixEDR/releases/latest) | Python · PySide6 · SQLite |
-| **[🔎 EIGAN](https://github.com/tue3306/EIGAN)** | Scanner de vulnerabilidades assistido por IA para testes de segurança **autorizados** (abordagem Red/Blue/Purple), com dashboard e relatórios técnico/executivo. | Python · IA |
-
+](https://github.com/tue3306/defesabr-intelligence)** | Plataforma de inteligência sobre segurança e defesa do Brasil, com dados reais coletados a cada 15 minutos: notícias classificadas, ataques cibernéticos, projetos de lei, economia, indústria de defesa e conflitos no mundo. [Ver ao vivo »](https://defesabr-intelligence.vercel.app/) | React · Node.js · Postgres |
+| **[🛡️ TrellixEDR Console](https://github.com/tue3306/TrellixEDR)** | Console gráfico completo para o Trellix Command Line Scanner: sete perfis de varredura, painel com dez gráficos, Central de Ameaças com quarentena e hashes, relatórios em PDF/HTML/CSV/JSON e limpeza de disco. Executável para Windows que dispensa Python. [Baixar »](https://github.com/tue3306/TrellixEDR/releases/latest) | Python · PySide6 · SQLite 
 ---
 
 ### 🌌 Missão em destaque — DefesaBR Intelligence
